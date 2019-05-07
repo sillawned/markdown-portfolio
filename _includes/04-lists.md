@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Programming Challenges
+  * Project Euler
+  * Hackerearth
+  * Root-me
